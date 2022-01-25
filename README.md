@@ -1,5 +1,5 @@
 ### Hi, I'm *Sanduni* 👋
- -  🔭 Full Stack developer
+<!--  -  🔭 Full Stack developer -->
 
 ## Stats
 ![Sanduni's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandu9618&theme=dark&show_icons=true&hide_border=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=aeristhy&theme=onedark&hide_border=true&show_icons=true) 
